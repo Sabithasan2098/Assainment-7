@@ -1,0 +1,65 @@
+[
+    {
+        "image": "https://i.ibb.co/c3cjym6/Rectangle-2.png",
+        "course_name": "Intro to Programming",
+        "credit_time": "1",
+        "price": "15000",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+        "image": "https://i.ibb.co/dtWLwB1/Rectangle-2-1.png",
+        "course_name": "Web Development Fundamentals",
+        "credit_time": "2 ",
+        "price": "20000 ",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+        "image": "https://i.ibb.co/mvH5cCY/Rectangle-2-2.png",
+        "course_name": "Data Science For Beginners",
+        "credit_time": "10",
+        "price": " 25000 ",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+        "image": "https://i.ibb.co/zJkknnN/Rectangle-2-3.png",
+        "course_name": "Digital Marketing Essentials",
+        "credit_time": "2",
+        "price": " 35000 ",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+        "image": "https://i.ibb.co/pRrFZdz/Rectangle-2-4.png",
+        "course_name": "graphic design fundamentals",
+        "credit_time": "2",
+        "price": " 19000 ",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+        "image": "https://i.ibb.co/M7t6h4K/Rectangle-2-5.png",
+        "course_name": "Python Programming",
+        "credit_time": "3",
+        "price": " 10000 ",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+        "image": "https://i.ibb.co/0FbyR1W/Rectangle-2-6.png",
+        "course_name": "Financial Literacy 101",
+        "credit_time": "5",
+        "price": "40000",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+        "image": "https://i.ibb.co/m01gzw3/Rectangle-3.png",
+        "course_name": "Photography Basics",
+        "credit_time": "5",
+        "price": "19000",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+        "image": "https://i.ibb.co/w4WCLqy/Rectangle-3-1.png",
+        "course_name": "english language mastery",
+        "credit_time": "6",
+        "price": "14000",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    }
+]
